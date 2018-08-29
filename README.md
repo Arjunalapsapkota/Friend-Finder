@@ -1,5 +1,5 @@
 # Friend-Finder
 
-This App allows users to find new like-minded friends. This Full-stack web asks users about their choices and based on user response name and photo of the matching person gets displayed on user screen.
+Friend-Finder, a full-stack web app allows users to find like-minded friends.  This app prompts some user response and displays a friend best matching his response.
 
 Deployed Heroku [Page](https://friendofinder.herokuapp.com/)
