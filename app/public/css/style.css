@@ -1,0 +1,10 @@
+
+body {
+    background-image: linear-gradient(275deg, #7ca0db, #426575)!important;
+}
+
+.jumbotron {
+    border-style: double;
+    border-color: bisque;
+    border-width: 1rem;
+}
